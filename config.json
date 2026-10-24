@@ -14,35 +14,35 @@
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
             "MX_PROXY": "0",
-            "enabled": "1"
+            "enabled": "0"
         },
         "Guardaserie": {
             "url": "https://guarda-serie.click",
-            "enabled": "1",
+            "enabled": "0",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "0"
         },
         "GuardaHD": {
             "url": "https://mostraguarda.stream",
-            "enabled": "1",
+            "enabled": "0",
             "GH_ForwardProxy": "0",
             "GH_PROXY": "0"
         },
         "Eurostreaming": {
             "url": "https://eurostream.ing",
-            "enabled": "1",
+            "enabled": "0",
             "ES_ForwardProxy": "0",
             "ES_PROXY": "0"
         },
         "Guardaflix": {
             "url": "https://guardaplay.live",
-            "enabled": "1",
+            "enabled": "0",
             "GF_ForwardProxy": "0",
             "GF_PROXY": "0"
         },
         "Guardoserie": {
             "url": "https://guardoserie.run",
-            "enabled": "1",
+            "enabled": "0",
             "GO_ForwardProxy": "0",
             "GO_PROXY": "0"
         },
@@ -54,25 +54,25 @@
         },
         "Realtime": {
             "url": "https://realtime.it",
-            "enabled": "1",
+            "enabled": "0",
             "RT_ForwardProxy": "0",
             "RT_PROXY": "0"
         },
         "Toonitalia": {
             "url": "https://toonitalia.xyz",
-            "enabled": "1",
+            "enabled": "0",
             "TI_ForwardProxy": "0",
             "TI_PROXY": "0"
         },
         "OnlineSerieTV": {
             "url": "https://onlineserietv.lol",
-            "enabled": "1",
+            "enabled": "0",
             "OST_ForwardProxy": "0",
             "OST_PROXY": "0"
         },
         "Vidxgo": {
             "url": "https://v.vidxgo.co",
-            "enabled": "1",
+            "enabled": "0",
             "VD_ForwardProxy": "0",
             "VD_PROXY": "0"
         }
